@@ -1,5 +1,6 @@
 # Aplicacion-Horiario-Clases
 Hecho por: Alberto Valera
+
 Aplicacion-Horiario-Clases es una aplicación de Android para gestionar horarios de clases. Permite a los usuarios agregar clases, ver horarios y verificar la clase actual según la hora y el día.
 
 ## Clases y Métodos
